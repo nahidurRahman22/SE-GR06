@@ -10,9 +10,9 @@ namespace _1dArrayWithoutUserInput
     {
         static void Main(string[] args)
         {
-            
+            //git works
                 // Declare and initialize a 1D array
-                int[] marks = { 85, 78, 92, 88, 76 };
+                int[] marks = { 85, 78, 92, 88, 76, 55 };
 
                 int total = 0;
 
